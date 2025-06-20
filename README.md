@@ -1,10 +1,7 @@
 # module11
 Github repository showcasing the results of the module 11.
 
-
-Now that we've settled on our models and findings, it is time to deliver the information to the client. You should organize your work as a basic report that details your primary findings. Keep in mind that your audience is a group of used car dealers interested in fine-tuning their inventory.
-
-Main takeaways from the previous analysis are: Price Distribution by Category
+Based on the dataset of used cars, the main takeaways from the previous analysis are: 
 
 **Condition vs. Price**:
 
